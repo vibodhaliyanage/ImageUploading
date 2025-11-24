@@ -2,7 +2,7 @@
 
 require 'connection.php';
 
-define('IMGBB_API_KEY', '8dc2248710570c910219a1b954f71bb3');
+define('IMGBB_API_KEY', '---');
 define('IMGBB_API_URL', 'https://api.imgbb.com/1/upload');
 
 

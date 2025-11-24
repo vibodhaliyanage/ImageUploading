@@ -5,8 +5,8 @@ class Connection {
     private static $host = 'localhost';
     private static $port = 3306;
     private static $user = 'root';
-    private static $pass = 'Vibodha20050718_';
-    private static $db = 'image_uploading';
+    private static $pass = '--';
+    private static $db = '--';
 
     public static function setupConnection(){
         if (!isset(self::$connection)) {
